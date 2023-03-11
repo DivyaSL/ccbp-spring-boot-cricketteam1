@@ -1,12 +1,3 @@
-/*
- * 
- * You can use the following import statements
- * import org.springframework.jdbc.core.RowMapper;
- * import java.sql.ResultSet;
- * import java.sql.SQLException;
- * 
- */
-
 package com.example.song.model;
 
 import org.springframework.jdbc.core.RowMapper;
